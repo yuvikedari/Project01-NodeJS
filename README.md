@@ -4,7 +4,7 @@
 
 1. Clone this project
 ```
-git clone https://github.com/
+git clone https://github.com/yuvikedari/Project01-NodeJS.git
 ```
 2. Setup the following environment variables - `(.env)` file
 ```
